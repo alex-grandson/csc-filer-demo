@@ -1,0 +1,8 @@
+.git/
+files/
+__pycache__/
+Dockerfile
+.dockerignore
+.vscode/
+.idea/
+compose.yml
